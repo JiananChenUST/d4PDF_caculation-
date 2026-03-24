@@ -49,7 +49,6 @@ Please place all track files in a folder named **`Tracks`** in the same director
 
 ## How to Run
 
-### Nature Run (NAT)
 
 1. Open `NAT.py`,  `4K_MI.py`, `4K_MR.py`,`4K_MP.py`, `4K_CC.py`, `4K_GF.py`, `4K_HA.py`
 2. Update only these four lines with your correct paths:
